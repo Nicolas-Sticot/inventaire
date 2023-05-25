@@ -15,3 +15,11 @@ Pour installer les bibliothèques tu peux utiliser la commande :
 pip install <nom-de-la-bibliotèque>
 ```
 
+## Documentations et téléchargements
+### Tkinter
+[TKINTER DOCUMENTATION](https://realpython.com/python-gui-tkinter/)
+
+### PyCharm IDE
+[PyCharm Download](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows)
+
+[PyCharm Student Licence](https://www.jetbrains.com/shop/eform/students)
